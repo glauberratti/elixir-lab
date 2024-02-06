@@ -1,4 +1,4 @@
 # Portal
 
-Praticando com a seguinte fonte: https://www.howistart.org/posts/elixir/1/
+Practicing with the following source: https://www.howistart.org/posts/elixir/1/
 
